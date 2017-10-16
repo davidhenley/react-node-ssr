@@ -1,0 +1,28 @@
+{
+  "name": "react-node-ssr",
+  "version": "1.0.0",
+  "description": "Server Side Rendering for React with Node/Express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidhenley/react-node-ssr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidhenley/react-node-ssr/issues"
+  },
+  "homepage": "https://github.com/davidhenley/react-node-ssr#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  }
+}
